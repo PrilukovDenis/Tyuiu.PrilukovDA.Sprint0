@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36603.0 d17.14
+VisualStudioVersion = 17.14.36603.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PrilukovDA.Sprint0.Task0.V0", "Tyuiu.PrilukovDA.Sprint0.Task0.V0\Tyuiu.PrilukovDA.Sprint0.Task0.V0.csproj", "{246ADD00-3651-4E0B-B3CA-4E0DC3AB631F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{0FB232B4-0C68-44B3-9994-CFEE7DD7F8F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PrilukovD.Sprint0.Task1.V0", "Tyuiu.PrilukovD.Sprint0.Task1.V0\Tyuiu.PrilukovD.Sprint0.Task1.V0.csproj", "{C2C8720C-9829-4DCC-A3B1-09BAD782E1D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{246ADD00-3651-4E0B-B3CA-4E0DC3AB631F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{246ADD00-3651-4E0B-B3CA-4E0DC3AB631F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{246ADD00-3651-4E0B-B3CA-4E0DC3AB631F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2C8720C-9829-4DCC-A3B1-09BAD782E1D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C8720C-9829-4DCC-A3B1-09BAD782E1D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C8720C-9829-4DCC-A3B1-09BAD782E1D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C8720C-9829-4DCC-A3B1-09BAD782E1D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{246ADD00-3651-4E0B-B3CA-4E0DC3AB631F} = {36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}
+		{C2C8720C-9829-4DCC-A3B1-09BAD782E1D0} = {0FB232B4-0C68-44B3-9994-CFEE7DD7F8F5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F4CD7788-A8CE-4FD4-8CD0-1211C3FA1530}
